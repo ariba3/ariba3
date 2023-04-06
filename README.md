@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariba3&show_icons=true&locale=en&layout=compact" alt="ariba3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariba3&show_icons=true&locale=en" alt="ariba3" /></p>
+
