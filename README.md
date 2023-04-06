@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web project**
 
-- 🌱 I’m currently learning **C++, Data Structure, Java**
+- 🌱 I’m currently learning **Web Delopmentt**
 
 - 📫 How to reach me **aribakhan1337@gmail.com**
 
