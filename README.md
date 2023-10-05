@@ -1,7 +1,7 @@
-<h1 align="center">Hi There 👋</h1>
-<h3 align="center">I'm Ariba Khan 👩🏻‍🎨<br>📖pursuing BSc in Computer Science<br>Sophomore at Leading University</h3>
+<h1 align="center">&nbsp; Hi There👋</h1>
+<h3 align="center">I'm Ariba Khan 👩🏻‍🎨<br>📖Pursuing BSc in Computer Science<br>&nbsp; Senior year at Leading University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariba3&label=Profile%20views&color=0e75b6&style=flat" alt="ariba3" /> </p>
+ <!---  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariba3&label=Profile%20views&color=0e75b6&style=flat" alt="ariba3" /> </p>--->
 
 - 🔭 I’m currently working on **web project**
 
@@ -11,13 +11,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_ariba_art_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ariba_art_" height="30" width="40" /></a>
+<!---<a href="https://instagram.com/_ariba_art_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ariba_art_" height="30" width="40" /></a>  --->
 <a href="https://www.codechef.com/users/ariba_k3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ariba_k3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ariba33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ariba33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img  alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+
+<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+</p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariba3&show_icons=true&locale=en&layout=compact" alt="ariba3" /></p>
 
